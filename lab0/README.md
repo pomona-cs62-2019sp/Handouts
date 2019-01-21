@@ -3,7 +3,6 @@
 ## Important Dates
 
 * Release Date: January 23, 2019
-* Due Date: January 29, 2019 (optional)
 
 
 ## Objectives
